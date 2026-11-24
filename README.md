@@ -9,3 +9,4 @@
 - **DFD Level 1 (1-ші деңгей):** `docs/analysis/dfd-level1.png`
 - **SQL Схема:** `docs/database/schema.sql`
 - **SQL Сұраныстар нәтижесі:** `docs/database/query-results.png`
+"Updated"
